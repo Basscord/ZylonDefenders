@@ -102,7 +102,11 @@ class GameViewController: UIViewController,SCNPhysicsContactDelegate, SCNSceneRe
     func setSpeed(_ value: Float)
     {
         let displaySpeed = Int(value)
-        currentSpeed.text = "\(displaySpeed)"
+
+        DispatchQueue.main.async {
+            self.currentSpeed.text = "\(displaySpeed)"
+        }
+
         starfield.speedFactor = CGFloat(0.4 * value)
         
         if (value == 0)
