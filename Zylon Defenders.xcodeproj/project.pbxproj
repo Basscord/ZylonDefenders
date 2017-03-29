@@ -263,7 +263,7 @@
 				TargetAttributes = {
 					E1D8BD4D1DCFCD1A00C863DF = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = WPGAGSXUST;
+						DevelopmentTeam = WH5QU75L46;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -466,11 +466,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = WPGAGSXUST;
+				DEVELOPMENT_TEAM = WH5QU75L46;
 				INFOPLIST_FILE = StarRaiders/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jeffglasse.StarRaiders;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.brian-mau.zylon-defenders";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -480,11 +480,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = WPGAGSXUST;
+				DEVELOPMENT_TEAM = WH5QU75L46;
 				INFOPLIST_FILE = StarRaiders/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jeffglasse.StarRaiders;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.brian-mau.zylon-defenders";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
